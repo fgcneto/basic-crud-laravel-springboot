@@ -1,5 +1,6 @@
 # CRUD Básico utilizando Angular e Spring Boot
 =======
+Projeto inicial os estudo do Angular Framework
 # FrontAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
