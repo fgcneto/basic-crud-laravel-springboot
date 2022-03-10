@@ -1,5 +1,4 @@
 # CRUD Básico utilizando Angular e Spring Boot
-=======
 
 Projeto inicial os estudo do Angular Framework
 
