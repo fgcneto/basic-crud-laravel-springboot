@@ -1,6 +1,6 @@
 # CRUD Básico utilizando Angular e Spring Boot
 
-Projeto inicial os estudo do Angular Framework
+Início nos estudos do Angular Framework
 
 # FrontAngular
 
